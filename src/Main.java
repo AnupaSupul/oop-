@@ -9,9 +9,7 @@ public class Main {
         bus.color="White";
         bus.year=2015;
 
-        bus.drive();
-        bus.start();
-        System.out.println( bus.color);
-        System.out.println( bus.year);
+
+        System.out.println(car.glassopen());
     }
 }
